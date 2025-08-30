@@ -1,0 +1,7 @@
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Unity Text Mesh Pro Documentation for SCP:SL Server Owners
+tagline: SCP: SL Server Info for Dummies.
+description: I'd suggest saving this page. - Whitty985playz
