@@ -12,7 +12,7 @@ There are **some** elements taht do not use TMP, however I will not talk about t
 
 | TMP Syntax | Usage | Example |
 | ------------- | ------------- | ------------- |
-| <b> </b> | Creating **Bold** Text. | Hello <b>World!</b> |
+| \<b> \</b> | Creating **Bold** Text. | Hello <b>World!</b> |
 | <i> </i> | *Italics* | <i>Hello</i> World! | 
 | <u> </u> | <ins>Underline</ins> | <i>Hello</i> World! | 
 | <i> </i> | ~~Strike Through~~ | <s>Hello</s> World! | 
