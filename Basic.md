@@ -1,3 +1,6 @@
+layout: page
+title: "TMP Docs for SCP:SL Server Owners."
+permalink: /Basic
 # Basic
 | TMP Syntax | Usage | Example |
 | ------------- | ------------- | ------------- |
