@@ -21,7 +21,7 @@ There are **some** elements taht do not use TMP, however I will not talk about t
 | \<size=###> \</size> | Resizing Text | \<size=40>Hello\</size> World! | 
 | \<line-indent=XXX%> \</line-indent> | Self explanitory | \<line-indent=15%>Hello\</line-indent> World! | 
 | \<align="\[LEFT/CENTER/RIGHT\]"> \</align> | Realign Text | \<align="right">Hello\</align> World! | 
-| \<link="\[LINK\]"> \</link> | Add a hyperlink | \<link="https://en.scpslgame.com">Hello\</link> World! | 
+| \<link="\[LINK\]"> \</link> | Add a hyperlink | \<link="\https://en.scpslgame.com\">Hello\</link> World! | 
 
 
 This should be all you need to know when it comes to using TMP's Markdown.
