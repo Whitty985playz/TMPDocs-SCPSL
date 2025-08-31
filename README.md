@@ -31,7 +31,7 @@ If you want to add emojis to your server info, please follow [this link](https:/
 Here is a basic template you can use when creating your server info.
 ```
 <align="center"><size=50><b>[SERVER NAME]</b></size>
-<size=40><color=blue><link"[LINK]">Discord(Clickable)</link></color></size>
+<size=40><color=blue><link="[LINK]">Discord(Clickable)</link></color></size>
 </align>
 <size=15>[RULES]
 ```
