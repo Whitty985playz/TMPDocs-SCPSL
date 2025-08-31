@@ -12,16 +12,18 @@ There are **some** elements taht do not use TMP, however I will not talk about t
 
 | TMP Syntax | Usage | Example |
 | ------------- | ------------- | ------------- |
-| \<b> \</b> | Creating **Bold** Text. | Hello <b>World!</b> |
-| <i> </i> | *Italics* | <i>Hello</i> World! | 
-| <u> </u> | <ins>Underline</ins> | <i>Hello</i> World! | 
-| <i> </i> | ~~Strike Through~~ | <s>Hello</s> World! | 
-| <i> </i> | *Italics* | <i>Hello</i> World! | 
-| <i> </i> | *Italics* | <i>Hello</i> World! | 
-| <i> </i> | *Italics* | <i>Hello</i> World! | 
-| <i> </i> | *Italics* | <i>Hello</i> World! | 
-| <i> </i> | *Italics* | <i>Hello</i> World! | 
-| <i> </i> | *Italics* | <i>Hello</i> World! | 
+| \<b> \</b> | Creating **Bold** Text. | Hello \<b>World!\</b> |
+| \<i> \</i> | *Italics* | \<i>Hello\</i> World! | 
+| \<u> \</u> | <ins>Underline</ins> Text | \<u>Hello\</u> World! | 
+| \<i> \</i> | ~~Strike Through~~ Text | \<s>Hello\</s> World! | 
+| \<color=\[HEX\]> \</color> | Coloring Text | \<color=red>Hello\</color> World! | 
+| \<alpha=#XX> \</alpha> | Changing the Alpha Channel of Text | \<alpha=#55>Hello\</i> World! | 
+| \<size=###> \</size> | Resizing Text | \<size=40>Hello\</size> World! | 
+| \<line-indent=XXX%> \</line-indent> | Self explanitory | \<line-indent=15%>Hello\</line-indent> World! | 
+| \<align="\[LEFT/CENTER/RIGHT\]"> \</align> | Realign Text | \<align="right">Hello\</align> World! | 
+
+This should be all you need to know when it comes to using TMP's Markdown.
+If you want to add emojis to your server info, please follow [this link](https://boltondev.github.io/SL-Emojis) to see all of the available emojis you can pick from.
 
 
 Here is a basic template you can use when creating your server info.
