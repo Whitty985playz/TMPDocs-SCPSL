@@ -11,6 +11,7 @@ Text Mesh Pro(or TMP) is the Unity UI Text type SCP: Secret Laboratory uses to d
 There are **some** elements that do not use TMP, however I will not talk about them since this documentation is for your Server Info.
 
 TMP Uses multiple Value Types.
+
 | Attribute/value type: |	Example
 | ----- | ----- |
 | Decimals | 0.5
@@ -53,25 +54,7 @@ Here is a basic template you can use when creating your server info.
 ```
 
 Here is what you could expect to see in the game(using my server as an example).
+
 <img width="765" height="755" alt="Server Info Example" src="https://github.com/user-attachments/assets/53ecc929-ac21-4725-9af7-2eb89db8230b" />
 
 If you want to gradient text, please follow [this link](https://cedmod.nl/tools/gradient) to go to the **CedMod Gradient Creator**. This is a tool I personally use a lot.
-
-
------------------------------------------
-
-## ADVANCED - WORK IN PROGRESS
-
-| TMP Syntax | Usage | Example |
-| ------------- | ------------- | ------------- |
-| \<b> \</b> | Creating **Bold** Text. | Hello \<b>World!\</b> |
-| \<i> \</i> | *Italics* | \<i>Hello\</i> World! | 
-| \<u> \</u> | <ins>Underline</ins> Text | \<u>Hello\</u> World! | 
-| \<i> \</i> | ~~Strike Through~~ Text | \<s>Hello\</s> World! | 
-| \<color=\[HEX\]> \</color> | Coloring Text | \<color=red>Hello\</color> World! | 
-| \<alpha=#XX> \</alpha> | Changing the Alpha Channel of Text | \<alpha=#55>Hello\</i> World! | 
-| \<size=###> \</size> | Resizing Text | \<size=40>Hello\</size> World! | 
-| \<line-indent=XXX%> \</line-indent> | Self explanitory | \<line-indent=15%>Hello\</line-indent> World! | 
-| \<align="\[LEFT/CENTER/RIGHT\]"> \</align> | Realign Text | \<align="right">Hello\</align> World! | 
-| \<link="\[LINK\]"> \</link> | Add a hyperlink | \<link="`https://en.scpslgame.com`">Hello\</link> World! | 
-| \<smallcaps> \<allcaps> \<uppercase> \<lowercase>| Change capitalization of text. | N/A | 
