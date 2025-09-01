@@ -1,4 +1,6 @@
-## ADVANCED - WORK IN PROGRESS
+## ADVANCED
+
+----------------------------------------
 
 | TMP Syntax | Usage | Example |
 | ------------- | ------------- | ------------- |
@@ -19,6 +21,8 @@
 | \<margin=#em> \</margin> | Like \<line-indent> but cooler | N/A | 
 | \<rotate="#"> \</rotate> | Roate text. | N/A | 
 | \<line-height=###%> \</line-height> | Another one that is self explanitory. | N/A | 
+
+----------------------------------------
 
 Here is a template that you could make use of... or not. I don't mind :)
 
