@@ -16,7 +16,7 @@
 | \<link="\[LINK\]"> \</link> | Add a hyperlink | \<link="`https://en.scpslgame.com`">Hello\</link> World! | 
 | \<smallcaps> \<allcaps> \<uppercase> \<lowercase>| Change capitalization of text. | N/A | 
 | \<mark=#XXXXXX??> \</mark> | Highlight spesific areas of text. | N/A | 
-| \<nobr> \</nobr> | Keeps spesific words/characters on the same line. | You don't want <nobr>\<nobr>I M P O R T A N T\</nobr></nobr> things to be broken up. | 
+| \<nobr> \</nobr> | Keeps spesific words/characters on the same line. | You don't want \<nobr>I M P O R T A N T\</nobr> things to be broken up. | 
 | \<voffset=#em> \</voffset> | Change a word/line's veritical offset. | N/A | 
 | \<margin=#em> \</margin> | Like \<line-indent> but cooler | N/A | 
 | \<rotate="#"> \</rotate> | Roate text. | N/A | 
