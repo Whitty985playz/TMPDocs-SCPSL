@@ -25,8 +25,12 @@ TMP Uses multiple Value Types.
 
 In SCP: Secret Laboratory, you will not be able to use tags like `<sprite>` Instead, it is recommended that you use [**Emojis**](https://boltondev.github.io/SL-Emojis).
 
-Please select one of the options below:
+## Please select one of the options below:
 
 [Basic](https://whitty985playz.github.io/TMPDocs-SCPSL/Basic) - Recommended for new server owners
 
 [Advanced](https://whitty985playz.github.io/TMPDocs-SCPSL/Advanced) - Recommedned for people who understand TMP and SCP: SL's server info.
+
+**OTHER**
+
+[Server Name](https://whitty985playz.github.io/TMPDocs-SCPSL/ServerName)
