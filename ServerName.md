@@ -22,7 +22,7 @@ server_name: Server Name
 player_list_title: Default
 ```
 
-This can be found in: **`home\container\\.config\SCP Secret Laboratory/config/\(Server Port\)/config_gameplay.txt`**
+This can be found in: **`home\container\\.config\SCP Secret Laboratory/config/(Server Port)/config_gameplay.txt`**
 
 Here are the tags you can use in your server name:
 
