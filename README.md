@@ -29,7 +29,7 @@ In SCP: Secret Laboratory, you will not be able to use tags like `<sprite>` Inst
 
 [Basic](https://whitty985playz.github.io/TMPDocs-SCPSL/Basic) - Recommended for new server owners
 
-[Advanced](https://whitty985playz.github.io/TMPDocs-SCPSL/Advanced) - Recommedned for people who understand TMP and SCP: SL's server info.
+[Advanced](https://whitty985playz.github.io/TMPDocs-SCPSL/Advanced) - Recommmended for people who understand TMP and SCP: SL's server info.
 
 **OTHER**
 
