@@ -30,8 +30,6 @@ Here are the tags you can use in your server name:
 | ------------- | ------------- | ------------- |
 | \<b> \</b> | Creating **Bold** Text. | Hello \<b>World!\</b> |
 | \<i> \</i> | *Italics* | \<i>Hello\</i> World! | 
-| \<u> \</u> | <ins>Underline</ins> Text | \<u>Hello\</u> World! | 
-| \<s> \</s> | ~~Strike Through~~ Text | \<s>Hello\</s> World! | 
 | \<color=\[HEX\]> \</color> | Coloring Text | \<color=red>Hello\</color> World! | 
 | \<alpha=#XX> \</alpha> | Changing the Alpha Channel of Text | \<alpha=#55>Hello\</i> World! | 
 | \<size=###> \</size> | Resizing Text | \<size=40>Hello\</size> World! | 
